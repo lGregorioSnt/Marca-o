@@ -1,0 +1,11 @@
+.ney{
+    background-color: red;
+    margin: 20px;
+    padding: 25px;
+    width: 500px;
+    height: 500px;
+}
+
+*{
+    box-sizing:   border-box;
+}
